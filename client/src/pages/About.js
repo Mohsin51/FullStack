@@ -12,6 +12,7 @@ function About() {
         </div>
             <div className='content'>
                 <h2>About Page</h2>
+                <p>this is my about page on the full stack app example</p>
                 
             </div>
         </>
